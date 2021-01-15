@@ -1,0 +1,46 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "title": "React Redux ",
+            "is_completed": false
+        },
+        {
+            "id": 2,
+            "title": "React Redux ",
+            "is_completed": false
+        },
+        {
+            "id": 3,
+            "title": "React Redux ",
+            "is_completed": false
+        },
+        {
+            "id": 4,
+            "title": "React Redux ",
+            "is_completed": false
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "Hamdi",
+            "is_active": true
+        },
+        {
+            "id": 2,
+            "name": "Ali",
+            "is_active": true
+        },
+        {
+            "id": 3,
+            "name": "Mehmet",
+            "is_active": true
+        },
+        {
+            "id": 4,
+            "name": "Veli",
+            "is_active": true
+        }
+    ]
+}
